@@ -1,0 +1,4 @@
+
+2014-12-24
+fip_bl31.bin更新，支持Loader升级，不用每次进maskrom升级。
+rk3368_trusboot_V1.01_debug.bin改名为MiniLoader，同时默认DDR 800M，Android速度有明显提升（但还是比较慢）。
