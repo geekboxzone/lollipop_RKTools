@@ -7,6 +7,7 @@ parameter	parameter.txt
 trust       trust.img
 uboot       Image/uboot.img
 misc		Image/misc.img
+resource	Image/resource.img
 kernel		Image/kernel.img
 boot        Image/boot.img
 recovery	Image/recovery.img
